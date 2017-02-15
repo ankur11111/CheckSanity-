@@ -36,7 +36,7 @@ public class AppTest
     {
     	
     	System.out.println("Hello TestApp");
-        assertTrue( true );
+        assertTrue( false );
       
     }
     public void test2()
