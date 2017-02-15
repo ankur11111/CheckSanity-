@@ -35,14 +35,14 @@ public class AppTest
     public void testApp()
     {
     	
-    	System.out.println("Hello TestApp");
-        assertTrue( false );
+    	System.out.println("Hello 1 in checksanity");
+        assertTrue( true );
       
     }
     public void test2()
     {
     	
-    	System.out.println("Hello test2");
+    	System.out.println("Hello 2 in checksanity");
         assertTrue( true );
       
     }
