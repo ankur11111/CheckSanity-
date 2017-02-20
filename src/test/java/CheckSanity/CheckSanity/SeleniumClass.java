@@ -13,7 +13,7 @@ public void testFirst()
 	
 	FirefoxDriver fd=new FirefoxDriver();
 	fd.get("https://www.nobroker.in");
-	Assert.assertEquals("Residentia Properties for Rent/Sell/Buy in India", fd.getTitle());
+	Assert.assertEquals("Residential Properties for Rent/Sell/Buy in India", fd.getTitle());
 	System.out.println(fd.getTitle());
 }	
 }
